@@ -47,10 +47,10 @@ Video Hosting
 
 ## Flask App with Tailwind CSS
 
-- Open Google shell and create a new app.py file
-- Create a templates folder and within this folder, create an index.html file
-- Used Professor Hants' example code and made changes to the file
-- Entered the following for app.py file:
+- Open Google shell and create a new <code>app.py</code> file
+- Create a templates folder and within this folder, create an <code>index.html</code> file
+- I used Professor Hants' [example](https://github.com/hantswilliams/HHA_504_2023/blob/main/WK5/example_app/templates/index_tailwind.html) code and made changes to the file
+- Entered the following for <code>app.py</code> file:
 
 ## Cloud Deployment
 
