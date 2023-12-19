@@ -52,6 +52,21 @@ Video Hosting
 - I used Professor Hants' [example](https://github.com/hantswilliams/HHA_504_2023/blob/main/WK5/example_app/templates/index_tailwind.html) code and made changes to the file
 - Entered the following for <code>app.py</code> file:
 
+```python
+
+from flask import Flask, render_template
+
+app = Flask(__name__)
+
+@app.route('/')
+def indexpage():
+    return render_template('index.html')
+
+if __name__ == '__main__':
+    app.run(debug=True)
+
+```
+
 ## Cloud Deployment
 
 - Deployed the Flask app on Azure App Service
