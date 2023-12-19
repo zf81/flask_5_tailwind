@@ -36,13 +36,12 @@ Video Hosting
 - Create new profile with a profile name and endpoint name. My profile name was tailwindassignment
 - For Query string caching behavior, select Ignore Query String
 - Press Create
-
- - Click on your container name. Then click on your Endpoint
- - You will now see a page that shows "Endpoint hostname" and "Origin hostname". Click on the URL for Endpoint Hostname.
+- Click on your container name. Then click on your Endpoint
+- You will now see a page that shows "Endpoint hostname" and "Origin hostname". Click on the URL for Endpoint Hostname.
  
 
 - Going back to the URL pasted into the new tab from before, copy everything that comes after "-windows.net"
--  Paste it into the Endpoint Hostname URL after the ".net"
+- Paste it into the Endpoint Hostname URL after the ".net"
 - Press enter and refresh the page
 - Be sure to save this URL as you will need to enter this in .html file 
 
